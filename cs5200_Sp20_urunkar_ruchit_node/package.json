@@ -1,0 +1,14 @@
+{
+  "name": "cs5200_sp20_urunkar_ruchit_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruchit Urunkar",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.6"
+  }
+}
